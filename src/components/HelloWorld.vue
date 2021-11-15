@@ -46,7 +46,6 @@
 
 <script lang="ts">
 import { Component, Prop, Vue } from 'vue-property-decorator';
-import {Bmodal} from 'bootstrap-vue';
 
 @Component
 export default class HelloWorld extends Vue {
